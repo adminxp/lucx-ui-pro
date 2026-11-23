@@ -29,7 +29,8 @@
 **Скачивание и запуск скрипта**
 
 ```bash
-wget -qO https://raw.githubusercontent.com/adminxp/lucx-ui-pro/refs/heads/main/lucx-ui-latest.sh
+wget -O lucx-ui-latest.sh https://raw.githubusercontent.com/adminxp/lucx-ui-pro/refs/heads/main/lucx-ui-latest.sh && sudo bash lucx-ui-latest.sh -install y
+
 bash lucx-ui-latest.sh -install y
 ```
 
