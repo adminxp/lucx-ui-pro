@@ -29,7 +29,7 @@
 **Скачивание и запуск скрипта**
 
 ```bash
-wget -qO lucx-ui-latest.sh https://raw.githubusercontent.com/ttrroyy/lucx-ui-pro/main/lucx-ui-latest.sh
+wget -qO https://raw.githubusercontent.com/adminxp/lucx-ui-pro/refs/heads/main/lucx-ui-latest.sh
 bash lucx-ui-latest.sh -install y
 ```
 
